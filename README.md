@@ -1,9 +1,5 @@
 Scalable Tier 3 application on AWS
 
-**React frontend**, **Node.js backend**, **PostgreSQL RDS database**, all managed with AWS services. The architecture ensures **high availability, scalability, and security**.
-
-## Architecture Diagram
-![3-Tier Architecture Diagram](https://your-aws-diagram-url.png)
 
 ## Technologies & AWS Services Used
 - **Frontend:** React, hosted on **S3 + CloudFront**
